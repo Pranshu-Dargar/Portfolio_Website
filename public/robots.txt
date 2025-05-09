@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://pranshudargar.in
+
+# Sitemaps
+Sitemap: https://pranshudargar.in/sitemap.xml
